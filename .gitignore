@@ -1,0 +1,15 @@
+# Datasets
+*.csv
+*.gz
+*.tsv
+*-ubyte
+*_batch*
+*.meta
+
+# PowerPoint presentations
+*.pptx
+
+# JetBrains config directory
+.idea
+
+
