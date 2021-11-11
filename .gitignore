@@ -5,11 +5,25 @@
 *-ubyte
 *_batch*
 *.meta
+*.pth
+*.pkl
+*.tfevents
 
-# PowerPoint presentations
+# Media
 *.pptx
+*.jpg
+*.jpeg
+*.gif
+*.html
+*.png
+*.pdf
+*.json
 
-# JetBrains config directory
+# config directories
 .idea
+.vs
+*.catboost
+
+.env
 
 

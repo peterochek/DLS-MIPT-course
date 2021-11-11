@@ -4,8 +4,10 @@ New materials and homework assignments will
 appear every week.
 
 Datasets:
-- CIFAR 10 : http://www.cs.toronto.edu/~kriz/cifar.html
 - Black Friday : https://www.kaggle.com/sdolezel/black-friday
-- MNIST : http://yann.lecun.com/exdb/mnist/
-- Forest Dataset : https://www.kaggle.com/c/forest-cover-type-prediction
+- Forest Dataset (basic classification) : https://www.kaggle.com/c/forest-cover-type-prediction
 - Apple store : https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+- House price prediction (adv regression techniques) : https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- MNIST : http://yann.lecun.com/exdb/mnist/
+- CIFAR 10 (Basic CNN) : http://www.cs.toronto.edu/~kriz/cifar.html
+- Simpsons (Advanced CNN) : https://www.kaggle.com/c/journey-springfield
