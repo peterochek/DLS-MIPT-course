@@ -5,24 +5,32 @@
 *-ubyte
 *_batch*
 *.meta
+
+# Models
 *.pth
 *.pkl
-*.tfevents
 
 # Media
 *.pptx
+*.pdf
+*.html
+
+# Images
 *.jpg
 *.jpeg
-*.gif
-*.html
 *.png
-*.pdf
-*.json
+*.gif
+*.bmp
 
-# config directories
+# config directories && files
 .idea
 .vs
+.vscode
+
 *.catboost
+*.tfevents
+*.json
+*.txt
 
 .env
 
