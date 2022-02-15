@@ -4,6 +4,8 @@
 
 Datasets:
 
+##CV:
+
 - Black Friday : <https://www.kaggle.com/sdolezel/black-friday>
 - Forest Dataset (Basic classification) : <https://www.kaggle.com/c/forest-cover-type-prediction>
 - Apple store : <https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps>
@@ -15,3 +17,6 @@ Datasets:
 - Labeled Faces in the Wild (Encoders) :
   - data <http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz>
   - attributes <http://www.cs.columbia.edu/CAVE/databases/pubfig/download/%s>
+
+
+##NLP:
