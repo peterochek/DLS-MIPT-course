@@ -29,7 +29,6 @@
 
 *.catboost
 *.tfevents
-*.json
 *.txt
 
 .env
