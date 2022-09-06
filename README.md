@@ -4,7 +4,7 @@
 
 Datasets:
 
-##CV:
+## CV:
 
 - Black Friday : <https://www.kaggle.com/sdolezel/black-friday>
 - Forest Dataset (Basic classification) : <https://www.kaggle.com/c/forest-cover-type-prediction>
@@ -19,4 +19,4 @@ Datasets:
   - attributes <http://www.cs.columbia.edu/CAVE/databases/pubfig/download/%s>
 
 
-##NLP:
+## NLP:
