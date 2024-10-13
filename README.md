@@ -1,6 +1,4 @@
-# Hey! In September of this year, I started courses on machine learning and data analysis from MIPT
-
-## New materials and homework will appear every week.
+# MIPT DLS machine learning & data analysis course
 
 Datasets:
 
